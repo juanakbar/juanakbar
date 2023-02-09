@@ -29,14 +29,14 @@
     <br />
     <div>
       <a href="https://github.com/enjidev">
-        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=enjidev&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
+        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=juanakbar&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
       </a>
       <br /><br />
     </div>
     <div>
-      <a href="https://github.com/enjidev?tab=repositories&q=&type=&language=&sort=stargazers">
+      <a href="https://github.com/juanakbar?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=juanakabr&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&count_private=true" />
           <img alt="Enji Kusnadi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
         </picture>
