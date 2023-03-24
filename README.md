@@ -1,54 +1,32 @@
-<a href="https://www.enji.dev/work/contact">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanakbar/juanakbar/main/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanakbar/juanakbar/main/header.svg" />
-    <img alt="Juan Akbar Indrian | Freelancer · FullStack Developer · UI/UX Designer 🎨" src="https://raw.githubusercontent.com/juanakbar/juanakbar/main/header.svg" width="100%" />
-  </picture>
-</a>
+![image](https://markey.id/wp-content/uploads/2019/01/20180104-001.jpg)
+<br>
+<br>
+## Hi there 👋 
+![](https://komarev.com/ghpvc/?username=juanakbar)
+<br>
+My name is Juan Abkbar Indrian. I am a Website Developer and  live in Bandung City, West Java Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
+<br>
+<br>
+:pencil: I like blogging as well. You can read [my blog](https://www.wayyystack.id/).
+<br>
+<br>
+:construction_worker: I am looking for new PHP remote work. My resume is [online](#)
+<br><br>
+### Technologies & Tools :wrench:
 
-<header>
-  <div align="center">
-    <a href="https://juanakbar.vercel.app">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=enji.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
-    </a>
-    <a href="https://twitter.com/IndrianJuan">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-enjidev-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
-    </a>
-    <a href="https://figma.com/@enjidev">
-      <img alt="My Figma Community" src="https://img.shields.io/static/v1?color=%237733ff&label=Figma&message=@enjidev&style=flat&logo=figma&logoColor=ffffff&labelColor=334155">
-    </a>
-  </div>
-</header>
+![image](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![image](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br />
-<br />
-
-<details>
-  <summary><h2>📊 Statistics</h2></summary>
-  <div>
-    <br />
-    <div>
-      <a href="https://github.com/enjidev">
-        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=juanakbar&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
-      </a>
-      <br /><br />
-    </div>
-    <div>
-      <a href="https://github.com/juanakbar?tab=repositories&q=&type=&language=&sort=stargazers">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=juanakabr&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&count_private=true" />
-          <img alt="Enji Kusnadi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
-        </picture>
-      </a>
-      <br /><br />
-      <a href="https://github.com/enjidev?tab=repositories&q=&type=&language=&sort=stargazers">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enjidev" />
-          <img alt="Enji Kusnadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
-        </picture>
-      </a>
-    </div>
-  </div>
-</details>
+![image](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![image](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/yii-black.svg?style=for-the-badge&logo=YII&logoColor=white)
+![image](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br><br>
+### My Github Stats :chart_with_upwards_trend:
+![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=juanakbar&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanakbar&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
