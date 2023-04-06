@@ -20,9 +20,10 @@
 <br>
 
 <!-- contribution snake -->
-<p align="center">
-    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/juanakbar/juanakbar/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+    <h1> JuanAkbar's Dot Files 📁</h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka+Nerd+Font&weight=900&pause=1000&color=6791C9&background=0C0E0F00&center=true&vCenter=true&width=435&lines=A+place++I+store+my+Aesthetic+Customizations"
+</div>
 
 ### Languages & Tools 🧰
 
