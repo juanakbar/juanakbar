@@ -7,7 +7,7 @@
       <b>
         Hello There
       <br>
-        I'm Nhan, a Student, I like Penguins and Apples, but I don't like Windows.
+        I'm Juan, a Backend Enginer, I like Penguins and Apples, but I don't like Windows.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=500&lines=Make+it+simple+but+I'm+a+really+complicant+person.">
@@ -18,12 +18,6 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
-
-<!-- contribution snake -->
-<div align="center">
-    <h1> JuanAkbar's Dot Files 📁</h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka+Nerd+Font&weight=900&pause=1000&color=6791C9&background=0C0E0F00&center=true&vCenter=true&width=435&lines=A+place++I+store+my+Aesthetic+Customizations"
-</div>
 
 ### Languages & Tools 🧰
 
